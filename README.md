@@ -130,9 +130,8 @@ export default function AndroidSmall3() {
 ```
 
 ## OUTPUT:
-![image](https://github.com/vksachin2018/Figma/assets/149366019/280359bd-bc6f-41e7-b3e6-fbee1076056a)
-![image](https://github.com/vksachin2018/Figma/assets/149366019/280359bd-bc6f-41e7-b3e6-fbee1076056a)
 
+![image](https://github.com/vksachin2018/Figma/assets/149366019/c20f6b0f-8f5c-4c11-bd65-13c27b4517b2)
 
 
 ## RESULT:
